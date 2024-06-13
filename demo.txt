@@ -1,6 +1,11 @@
 THIS IS MY NEW FILE
 new changes
+<<<<<<< HEAD
 my name is kunal
 hello people
 this is the line change my main1
 this is the line changed by main2
+=======
+this is change by vim command
+added a line
+>>>>>>> main2
