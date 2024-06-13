@@ -2,3 +2,4 @@ THIS IS MY NEW FILE
 new changes
 my name is kunal
 hello people
+this is the line changed by main2
